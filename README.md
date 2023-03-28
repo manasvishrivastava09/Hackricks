@@ -1,0 +1,2 @@
+# Hackricks
+Project for hackathon
